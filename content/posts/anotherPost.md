@@ -1,5 +1,5 @@
 ---
-title: o1tjrn
+title: bbw3v9
 author: content/authors/napoleon.md
 excerpt: >-
   Lorem markdownum evinctus ut cape adhaeret gravis licet progenies ut haesit
