@@ -1,5 +1,5 @@
 ---
-title: wnlug
+title: h1fugc
 author: content/authors/pedro.md
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
