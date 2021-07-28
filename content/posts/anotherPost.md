@@ -1,5 +1,5 @@
 ---
-title: 73eg59
+title: sfp8ur
 author: content/authors/napoleon.md
 excerpt: >-
   Lorem markdownum evinctus ut cape adhaeret gravis licet progenies ut haesit
