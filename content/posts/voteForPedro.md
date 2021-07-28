@@ -1,5 +1,5 @@
 ---
-title: 8s2e1u
+title: 69vb2
 author: content/authors/pedro.md
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
