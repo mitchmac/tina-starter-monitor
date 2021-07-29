@@ -1,5 +1,5 @@
 ---
-title: nsb6xl
+title: 37hw2
 author: content/authors/napoleon.md
 excerpt: >-
   Lorem markdownum evinctus ut cape adhaeret gravis licet progenies ut haesit
