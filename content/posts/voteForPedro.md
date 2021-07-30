@@ -1,5 +1,5 @@
 ---
-title: e8vgy
+title: iy2koo
 author: content/authors/pedro.md
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
