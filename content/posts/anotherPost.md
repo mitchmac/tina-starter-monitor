@@ -1,5 +1,5 @@
 ---
-title: 8zoyck
+title: w5scu
 author: content/authors/napoleon.md
 excerpt: >-
   Lorem markdownum evinctus ut cape adhaeret gravis licet progenies ut haesit
