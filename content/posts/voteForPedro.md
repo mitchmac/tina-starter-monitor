@@ -1,5 +1,5 @@
 ---
-title: phpbg7
+title: 2vb97g
 author: content/authors/pedro.md
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
