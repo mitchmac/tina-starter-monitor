@@ -1,5 +1,5 @@
 ---
-title: 6kda5
+title: 2i7x3
 author: content/authors/pedro.md
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
