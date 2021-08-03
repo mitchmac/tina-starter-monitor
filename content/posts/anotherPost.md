@@ -1,5 +1,5 @@
 ---
-title: mptb
+title: 3dlc6f
 author: content/authors/napoleon.md
 excerpt: >-
   Lorem markdownum evinctus ut cape adhaeret gravis licet progenies ut haesit
