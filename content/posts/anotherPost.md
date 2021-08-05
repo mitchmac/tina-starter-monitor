@@ -1,5 +1,5 @@
 ---
-title: 9kf9fb
+title: ox9a1
 author: content/authors/napoleon.md
 excerpt: >-
   Lorem markdownum evinctus ut cape adhaeret gravis licet progenies ut haesit
