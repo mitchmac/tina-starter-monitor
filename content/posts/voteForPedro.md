@@ -1,5 +1,5 @@
 ---
-title: 7gbo3
+title: f7ebe
 author: content/authors/pedro.md
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
