@@ -1,5 +1,5 @@
 ---
-title: ox9a1
+title: syicz
 author: content/authors/napoleon.md
 excerpt: >-
   Lorem markdownum evinctus ut cape adhaeret gravis licet progenies ut haesit
