@@ -1,5 +1,5 @@
 ---
-title: xtccl
+title: 7gbo3
 author: content/authors/pedro.md
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
