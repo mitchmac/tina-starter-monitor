@@ -1,5 +1,5 @@
 ---
-title: ahlkgua
+title: 8a8ppo
 author: content/authors/napoleon.md
 excerpt: >-
   Lorem markdownum evinctus ut cape adhaeret gravis licet progenies ut haesit
