@@ -1,5 +1,5 @@
 ---
-title: cigj0k
+title: 7os8hy
 author: content/authors/pedro.md
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
