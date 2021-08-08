@@ -1,5 +1,5 @@
 ---
-title: gg9o1
+title: crs7mc
 author: content/authors/pedro.md
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
