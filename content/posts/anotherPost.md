@@ -1,5 +1,5 @@
 ---
-title: 7nwj5
+title: piwdwo
 author: content/authors/napoleon.md
 excerpt: >-
   Lorem markdownum evinctus ut cape adhaeret gravis licet progenies ut haesit
