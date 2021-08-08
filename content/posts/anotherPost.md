@@ -1,5 +1,5 @@
 ---
-title: tin0v1
+title: 4dyuo
 author: content/authors/napoleon.md
 excerpt: >-
   Lorem markdownum evinctus ut cape adhaeret gravis licet progenies ut haesit
