@@ -1,5 +1,5 @@
 ---
-title: vgu4ap
+title: ggx9ne
 author: content/authors/napoleon.md
 excerpt: >-
   Lorem markdownum evinctus ut cape adhaeret gravis licet progenies ut haesit
