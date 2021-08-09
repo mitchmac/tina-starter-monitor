@@ -1,5 +1,5 @@
 ---
-title: 0o2zth
+title: sx7lq
 author: content/authors/pedro.md
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
