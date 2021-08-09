@@ -1,5 +1,5 @@
 ---
-title: om6k9eo
+title: omef1a
 author: content/authors/pedro.md
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
