@@ -1,5 +1,5 @@
 ---
-title: 2ry7c
+title: q5maf6
 author: content/authors/napoleon.md
 excerpt: >-
   Lorem markdownum evinctus ut cape adhaeret gravis licet progenies ut haesit
