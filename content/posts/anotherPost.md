@@ -1,5 +1,5 @@
 ---
-title: 21tpxh
+title: 60pu1
 author: content/authors/napoleon.md
 excerpt: >-
   Lorem markdownum evinctus ut cape adhaeret gravis licet progenies ut haesit
