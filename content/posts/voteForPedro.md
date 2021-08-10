@@ -1,5 +1,5 @@
 ---
-title: 1fr48v
+title: ero7xd
 author: content/authors/pedro.md
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
