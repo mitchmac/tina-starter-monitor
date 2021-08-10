@@ -1,5 +1,5 @@
 ---
-title: 2plztl
+title: tryfgp
 author: content/authors/napoleon.md
 excerpt: >-
   Lorem markdownum evinctus ut cape adhaeret gravis licet progenies ut haesit
