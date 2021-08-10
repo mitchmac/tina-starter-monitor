@@ -1,5 +1,5 @@
 ---
-title: lo3c6
+title: b6bbrj
 author: content/authors/pedro.md
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
