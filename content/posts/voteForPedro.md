@@ -1,5 +1,5 @@
 ---
-title: 2bj93
+title: z8iwfx
 author: content/authors/pedro.md
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
