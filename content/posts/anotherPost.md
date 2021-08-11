@@ -1,5 +1,5 @@
 ---
-title: 96bjmu
+title: 25l33d
 author: content/authors/napoleon.md
 excerpt: >-
   Lorem markdownum evinctus ut cape adhaeret gravis licet progenies ut haesit
